@@ -21,7 +21,7 @@ gameState.load.prototype = {
 		// Chargement de l'image du background
 		game.load.image('background', 'img/background.png');
 		// Chargement du personnage - PNG et JSON
-		game.load.atlas('man', 'img/man.png', 'data/man.json');
+		game.load.atlas('man', 'img/man.png', 'data/homme.json');
 		// Arbre
 		game.load.image('trunk1', 'img/trunk1.png');
 		game.load.image('trunk2', 'img/trunk2.png');
