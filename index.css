@@ -1,7 +1,21 @@
 body {
 	padding: 0;
 	margin: 0;
-background: linear-gradient(to bottom, #7db9e8 0%, #b1d4d5 37%, #93a9a5 51%, #b08e33 100%);
+	/*backgrbackground: linear-gradient(to bottom, rgba(149,176,170,1) 0%,rgba(149,176,170,0.98) 14%,rgba(168,189,173,0.95) 35%,rgba(239,221,179,0.92) 52%,rgba(239,221,179,0.91) 61%,rgba(178,129,73,0.9) 69%,rgba(178,129,73,0.89) 77%,rgba(176,142,51,0.87) 87%,rgba(176,142,51,0.87) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	/*background: linear-gradient(to bottom, rgba(149,176,170,1) 0%,rgba(149,176,170,0.98) 14%,rgba(168,189,173,0.95) 35%,rgba(239,221,179,0.93) 51%,rgba(178,129,73,0.9) 71%,rgba(176,142,51,0.87) 87%,rgba(176,142,51,0.87) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	/*background: linear-gradient(to bottom, rgba(149,176,170,1) 0%,rgba(149,176,170,0.98) 14%,rgba(168,189,173,0.95) 35%,rgba(239,221,179,0.92) 52%,rgba(239,221,179,0.91) 61%,rgba(178,129,73,0.9) 69%,rgba(178,129,73,0.89) 77%,rgba(176,142,51,0.87) 87%,rgba(176,142,51,0.87) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: linear-gradient(to bottom, rgba(149,176,170,1) 0%,
+		rgba(149,176,170,0.99) 8%,
+		rgba(149,176,170,0.95) 14%,
+		rgba(168,189,173,0.82) 35%,
+		rgba(239,221,179,0.71) 52%,
+		rgba(239,221,179,0.65) 61%,
+		rgba(185,139,85,0.6) 69%,
+		rgba(178,129,73,0.62) 70%,
+		rgba(178,129,73,0.77) 76%,
+		rgba(178,129,73,0.78) 77%,
+		rgba(176,142,51,0.87) 87%,
+		rgba(176,142,51,0.87) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 #timberman {
 	margin: auto;
